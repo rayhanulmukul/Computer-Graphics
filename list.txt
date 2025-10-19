@@ -1,0 +1,9 @@
+1: Implement the Cohen-Sutherland Line Clipping algorithm
+2: Implement the Sutherland-Hodgman Polygon Clipping algorithm
+3: Create the Bezier Curve
+4: Simulate two-dimensional geometric Translation
+5: Simulate two-dimensional geometric Rotation
+6: Simulate two-dimensional geometric Scaling
+7: Draw a line with the bresenham's Line Drawing algorithm
+8: Draw a circle with the bresenham's Circle Drawing algorithm
+9: Draw the Snowflake Pattern with Fractal Geometry
